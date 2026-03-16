@@ -39,11 +39,25 @@ A la par se nos compartió una web para aprender a escribir en [markdown](https:
 
 Se nos informó que posiblemente este sería el último curso en el que se enseñaría esta tecnología, puesto que el proyecto fue comprado por una empresa y sus políticas fueron cambiadas. Se nos informó sobre una organización llamada ["OSHWA"](https://oshwa.org) en la que se centra en certificar proyectos Open source de tipo Hardware.
 
+Para quien tenga el programa instalado solo se debe de actualizar.
+
+En la parte de "Administración de placas" hay que instalar la "R4 Boards".
+A la par se han de instalar "Bibliotecas": "Arduino MQTTClient" (Arduino) y "Arduino Graphics" ()
+
+Acerca de las versiones, se han de manejar según este tipo de numerología ["Versionamiento Semántico"](https://semver.org/lang/es/) "0.0.0". El último dígito indica un número que cuando asciende significa que han arreglado errores de las versiones anteriores. Al medio signifa que ha sido un cambio significativo de la versión, y ya el primer dígito indica que es una versión nueva que deja de ser compatible con la anterior.
+
+Los arduinos R3 poseen un chip "atmega328p" (2011).
+El 2024 es que llegaron los R4 tipo mínima y los [R4 wifi](https://mcielectronics.cl/shop/product/43402).
+
+***
+
+## 
+
 ***
 
 ## Links varios
 
-- Link 1
+- https://github.com/eclipse-mosquitto/mosquitto
 - Link 2
 - https://www.dwbowen.com/telepresent-wind
 - https://www.aaronkoblin.com
