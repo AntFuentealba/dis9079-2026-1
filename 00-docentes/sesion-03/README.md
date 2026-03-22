@@ -4,9 +4,7 @@ lunes 23 marzo 2026
 
 esta semana seguimos trabajando con los grupos de la semana pasada.
 
-hicimos 11 grupos,
-
-ya repartimos los Arduino Uno R4 WiFi
+hicimos 11 grupos, y repartimos los Arduino Uno R4 WiFi entre ellos, para que puedan trabajar con ellos durante el semestre.
 
 ## lista de gente
 
@@ -115,3 +113,51 @@ ya repartimos los Arduino Uno R4 WiFi
 
 * benjaminalvarez21
 * Anaysval
+
+## recordatorios metolodogía de trabajo conjunto
+
+* estar en discord
+* justificar inasistencias
+* silenciar los temas que no les son relevantes
+* cuidar los materiales
+
+## nueva placa con microcontrolador: raspberry pi pico 2 w
+
+la fundación inglesa Raspberry Pi partió lanzando computadores de bajo costo en el año 2009. hoy van en la versión 5 de su computador Raspberry Pi, también existe una versión 500+ que está embebida dentro de un teclado, y existe también el modelo Compute Module 5, que está diseñado para su incorporación en otros productos, y el modelo Raspberry Pi Zero, que es una versión aún más barata y pequeña.
+
+* Raspberry Pi 5:
+  * $205 USD
+  * <https://www.raspberrypi.com/products/raspberry-pi-5/>
+* Raspberry Pi 500+:
+  * $260 USD
+  * <https://www.raspberrypi.com/products/raspberry-pi-500-plus/>
+* Raspberry Pi Compute Module 5:
+  * $55 USD
+  * <https://www.raspberrypi.com/products/compute-module-5/>
+* Raspberry Pi Zero 2 W:
+  * $15 USD
+  * <https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/>
+  * Obsolecencia: enero 2030
+
+además de estos computadores, Raspberry Pi lanzó su propio chip microcontrolador, el RP2040 y la sucesora RP2050, que son el corazón de las placas Raspberry Pi Pico y Raspberry Pi Pico 2 respectivamente.
+
+Ambas placas tienen una versión con comunicaciones inalámbricas que reciben el sufijo W, en este curso usaremos la Raspberry Pi Pico 2 W, la más reciente de esta familia y la más completa.
+
+* Raspberry Pi Pico 2 W:
+  * desde 5 USD
+  * <https://www.raspberrypi.com/products/raspberry-pi-pico-2/>
+  * inalámbrico: 2.4GHz 802.11n wireless LAN, Bluetooth 5.2
+  * programable con C, C++ o Python
+  * Usa el chip RP2050.
+
+## otros microcomputadores y microcontroladores
+
+* BeagleBoard <https://www.beagleboard.org/>
+* Bela Platform <https://bela.io/>
+* Electro-Smith <https://electro-smith.com/>
+
+## Instalación de entorno de desarrollo para Raspberry Pi Pico 2 W
+
+Para la placa Arduino usaremos el software Arduino IDE que ya instalamos.
+
+Para la placa Raspberry Pi usaremos una herramienta de desarrollo profesional llamada Visual Studio Code.
