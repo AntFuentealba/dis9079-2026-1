@@ -51,3 +51,19 @@ nos entrega proto boars por grupo
 ---
 
 Subirle el codigo al raspberry y y que prenda
+
+Avisar por discord cualquier error
+
+importante para la solemne 00 solemne 1
+
+ordenar bitacoras personales y grupales
+
++ Seguir la pauta y la rubrica al pie de la letra
+
++explicar especificos
+
+---
+
+Mermeid herramienta para hacer diagramas
+
+Mini bibliotecas 5.0 Networking libraries
