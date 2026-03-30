@@ -64,10 +64,18 @@ corrección del error
 
 - sudo chown, sudo cmod, es durísimo, es como la versión lector cuando entras a un excel, el modo en el que se establece eso
 
-- 
+## BREAK Y SEGUNDA PARTE
 
-- 
+- cosas del error, ej: en archivos encriptados del codigo no era arduinoReceive sino user1, lo raro es que lo habían cambiado pero aparecía así
 
-- 
+- buscar formas más fáciles de usar el mqtt, filo con el mqtt? usaremos otro protocolo wifi
 
-- 
+- UDP es un protocolo inalámbrico, los mensajes se envían y a udp no le importa si los mensajes llegan, solo se envían
+
+- se utiliza para video, sirve, ejemplo: en imagen si pierdo 2 pixeles no importa, la imagen se ve igual. En audio si pierdo comunicación no me sirve porque audio requiere ser más estable
+
+- ahora abrirán el puerto 2390 para UDP
+
+  
+
+  
