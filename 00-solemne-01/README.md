@@ -15,47 +15,44 @@ como curso dividimos 32 estudiantes en 11 grupos.
   - sofiacartes
   - vxlentiinaa
 - grupo-02
+  - magdalenabalart
   - jesumirandaa
+  - ccarlabelenn
 - grupo-03
+  - antokiaraa
+  - tomascatri
+  - angel-udp
 - grupo-04
+  - AlegriaColoma
+  - antolavalle
+  - catasal
 - grupo-05
+  - felipecaurapan
+  - Camila-Parada
+  - paredesvania
 - grupo-06
+  - arevalourra
+  - isipm08
+  - nicolasvaldesgreve
 - grupo-07
+  - josefa-kristina
+  - DebSkar
+  - cristobalvergarasilva
 - grupo-08
 - grupo-09
 - grupo-10
+  - agustinaaceituno
+  - TODO: ignacio campos
+  - AntFuentealba
 - grupo-11
+  - benjaminalvarez21
+  - Anaysval
 
-
-agustinaaceituno	10
-antokiaraa	3
-AlegriaColoma	4
-benjaminalvarez21	11
-josefa-kristina	7
-arevalourra	6
-magdalenabalart	2
-tomascatri	3
-felipecaurapan	5
-Anaysval	11
-brauliofigueroa2001	
-AntFuentealba	10
-Guilleibanez	
-antolavalle	4
-ccarlabelenn	2
-Camila-Parada	5
-
-paredesvania	5
-isipm08	6
-	
-	1
-angel-udp	3
-catasal	4
-marlensoto-lab	
-DebSkar	7
-Luisaatoro9	
-nicolasvaldesgreve	6
-cristobalvergarasilva	7
-marcezm	
+brauliofigueroa2001
+Guilleibanez
+marlensoto-lab
+Luisaatoro9
+marcezm
 
 ## instrucciones
 
