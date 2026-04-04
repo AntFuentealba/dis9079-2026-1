@@ -4,15 +4,22 @@ investigaciones individuales
 
 # sobre adafruit i/o
 
-Lo primero que hice fue entrar a la página de Adafruit io https://io.adafruit.com/ y creé mi cuenta, eligiendo de foto de perfil un diodo led rojo. Por otro lado, con la palabra "descargar" el Adafruit IO, asumí que era un programa/app como tal para descargar en el computador, despues de buscar y buscar en internet donde descargar Adafuit IO me di cuenta de que eran descargas dentro de Arduino IDE, después me aventuré dentro de la página de Adafruit IO para encontrar las instrucciones de descarga y no las podía encontrar, me metía en todas las pestañas y secciones de la páginas y no logré encontrarlas, hasta que consulté en mi grupo si lograron descargarlo y mi compañero Nicolás me dijo que era al final de la página en la sección "Quick Guides" o "Guías Rápidas", recién ahí pude gestionar exitosamente las descargas, gracias @nicovaldesgreve!
+Lo primero que hice fue entrar a la página de Adafruit io https://io.adafruit.com/ y creé mi cuenta, eligiendo de foto de perfil un diodo led rojo. Por otro lado, con la palabra "descargar" el Adafruit IO, asumí que era un programa/app como tal para descargar en el computador, despues de buscar y buscar en internet donde descargar Adafuit IO me di cuenta de que eran descargas dentro de Arduino IDE, después me aventuré dentro de la página de Adafruit IO para encontrar las instrucciones de descarga y no las podía encontrar, me metía en todas las pestañas y secciones de la páginas y no logré encontrarlas, hasta que consulté en mi grupo si lograron descargarlo y mi compañero Nicolás me dijo que era al final de la página en la sección "Quick Guides" o "Guías Rápidas" y en el despliegue de guías, que hay varias, se selecciona la correspondiente a Arduino, recién ahí pude gestionar exitosamente las descargas, gracias @nicovaldesgreve!
 
 ## Cuenta creada en Adafruit IO
 
 <img width="1293" height="1079" alt="image" src="https://github.com/user-attachments/assets/7e614164-ae6f-4b0e-afcc-b49a63f77d23" />
 
-## Sección con tutorial de descarga de Adafruit IO
+
+## Sección de guía de descarga de Adafruit IO
 
 <img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/959b7ec6-33b3-4d65-9c8a-2ffaf9e0ae81" />
+
+
+## Despliegue de guías - Selección de "Primeros pasos con Arduino" o "Gettin Started With Arduino" en idioma original
+
+<img width="1125" height="769" alt="image" src="https://github.com/user-attachments/assets/3663ef69-d585-4961-874e-195db31c6281" />
+
 
 ## Primera Descarga - Adafruit MQTT
 
@@ -31,7 +38,7 @@ Saqué el pantallazo antes de que se descargara por completo pero si se instaló
 <img width="1919" height="1079" alt="instalación_adafruit_io_arduino" src="https://github.com/user-attachments/assets/82d9a3a8-30b5-424e-a96e-9ccc7467a73d" />
 
 
-En general me llamó la atención que las descargas fueran tan rápidas, pensé que tendría que dejar el computador por horas!!, no tuve dificultades en el proceso, sólo al inicio, como coménté anteriormente, me intriga saber cómo funcionan estos sistemas, personalmente todo esto es nuevo para mí, considero un desafío personal el haber tomado este ramo, espero poder aprender mucho sobre ésta area a lo largo del semestre!!
+En general me llamó la atención que las descargas fueran tan rápidas, pensé que tendría que dejar el computador por horas!!, no tuve dificultades en el proceso, sólo al inicio, como comenté anteriormente, me intriga saber cómo funcionan estos sistemas, personalmente todo esto es nuevo para mí, considero un desafío personal el haber tomado este ramo, espero poder aprender mucho sobre ésta area a lo largo del semestre!!
 
 
 # sobre artista, diseñadora o producto que usa electrónica o computación inalámbricas
