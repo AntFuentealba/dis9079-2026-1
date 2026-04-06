@@ -1,12 +1,12 @@
 // reemplazar por las credenciales de aaron
 // o por las de tu cuenta
-#define IO_USERNAME  "userdeadafruit"
-#define IO_KEY       "ponersuskeys"
+#define IO_USERNAME  "bla"
+#define IO_KEY       "bla"
 
 
 // reemplazar por nombre y clave de la wifi
-#define WIFI_SSID "si"
-#define WIFI_PASS "mailo6192"
+#define WIFI_SSID "bla"
+#define WIFI_PASS "bla"
 
 // comment out the following lines if you are using fona or ethernet
 #include "AdafruitIO_WiFi.h"
