@@ -18,8 +18,8 @@ con mi user de github y luego un guion
 #define WIFI_SSID "si"
 #define WIFI_PASS "mailo6192"
 
-#define IO_USERNAME  "udpmontoyamoraga"
-#define IO_KEY       "aio_oMzo060dhHDsYpOqmbEbDEbp5hgz"
+#define IO_USERNAME  "
+#define IO_KEY       "
 
 AdafruitIO_WiFi io(IO_USERNAME, IO_KEY, WIFI_SSID, WIFI_PASS);
 AdafruitIO_Feed *brillo = io.feed("nicolasvaldesgreve-potenciometro");
