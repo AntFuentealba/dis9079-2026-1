@@ -109,3 +109,11 @@ Código con adafruit IO
 
 - Con esta plataforma es posible conducir tu coche con tu teléfono o un portátil, grabar imágenes, ángulos de dirección y aceleraciones, y lo más interesante, entrenar a pilotos de redes neuronales para que conduzcan tu coche en diferentes pistas.
 
+![donkeycar](./imagenes/donkeycar2.png)
+
+fuente: [donkeycar](https://github.com/autorope/donkeycar?tab=readme-ov-file)
+
+![donkeycargif](./imagenes/donkeycargif.gif)
+
+fuente: [donkeycarniubit](https://niubit.es/proyectos/97-open-source/106-donkey-car)
+
