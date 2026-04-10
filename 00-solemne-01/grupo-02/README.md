@@ -31,6 +31,10 @@ Después quisimos probar a la distancia con el otro arduino que estaba en otra c
 
 ya con estas pruebas decidimos que el proyecto final se iba a concretar en que, desde el arduino 01 que estaba en casa 01 (arduino con led que manda mensaje amistad es amigo, te extraño amigo) se iba a conectar a un dashboard de computador que estaba en otra casa 02 y iba a mostrar el mensaje en un bloque stream y de texto, para luego que nuestro arduino 02 recibiera este mensaje y lo imprimiera en la pantalla oled. este fue el proceso más larguísimo de todos. El primer paso lo intentamos al revés, ósea el arduino 02 conectando al dashboard de la casa 01, intentamos de todo, cambiar feed, abrir el feed porque aparecía ese candado bloqueado, dejar el arduino quito por varios minutos a ver si quizás se demoraba por la distancia, pero nada. lo bueno es que si buscaba información en adafruit pero nunca conectó, entonces probamos al revés, que es la primera opción que se mencionó, hicimos que el arduino 01 se conectara a un dahboard a través del feed mensaje2, y logró mostrar el mensaje en el dashboard. una vez completado eso, conectamos la pantalla oled (ambos arduinos estaban conectados al mismo usuario y key de adafruit) en tutoriales vimos que si o si debía dar el mensaje de recibido, la primera parte de este codigo era sobre la pantalla oled, su configuración de tamaño tipográfico y el código principal para recibir el mensaje era este: Serial.println(io.statusText()); así chatgpt nuevamente nos ayudó con la sintaxis y lo logramos, fue maravilloso, mejor aprendizaje jjj muchas gracias aron y mateooo.
 
+https://drive.google.com/drive/folders/1T4yQb4QH4CQgEXnvzLIhV1lHX_TUkoPy?usp=sharing
+
+(drive con archivos de proceso)
+
 ## código usado con Adafruit IO
 
 ### código para enviar
