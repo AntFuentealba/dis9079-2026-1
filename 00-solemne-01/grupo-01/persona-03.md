@@ -273,3 +273,34 @@ Luego probamos el código en clases, donde si compiló y enviaba los datos corre
 <img src="./imagenes/vxlentiinaa_imagenes/adafruit_data.png" alt="data" width="700">
 
 ## sobre artista, diseñadora o producto que usa electrónica o computación inalámbricas
+
+### Hedy Lamarr
+
+`¿Quién es Hedy Lamarr?`
+
+- Hedwig Eva Maria Kiesler, conocida como Hedy Lamarr, fue una ingeniera, actriz de cine e inventora austriaca. Más alla de ser conocida como actriz, fue una inventora que, junto a George Antheil, desarrolló una tecnología revolucionaria en la cual se convertiría en la base para las comunicaciones inalámbricas modernas. Inventó la primera versión del wifi, que permitiría las comunicaciones inalámbricas a largas distancias. Su invento, basado en el uso del espectro ensanchado por salto de frecuencia, ha influido enormemente en el desarrollo de redes inalámbricas como el wifi, el Bluetooth y otros sistemas de transmisión de datos.
+
+- A comienzos de la Segunda Guerra Mundial, inventó, desarrolló y patentó un sistema de guía por radio para torpedos aliados que utilizaba el espectro ensanchado y la tecnología de salto de frecuencia para vencer la amenaza de interferencias por parte de las Potencias del Eje.
+
+`¿Qué inventó Hedy Lamarr?`
+
+- Durante la Segunda Guerra Mundial, Lamarr y Antheil patentaron un sistema para controlar torpedos de manera inalámbrica y segura, evitando que fueran interceptados o bloqueados por el enemigo. Este sistema usaba una técnica llamada espectro ensanchado por salto de frecuencia, que permite que una señal de radio cambie rápidamente entre diferentes frecuencias dentro del espectro de frecuencias.
+
+`¿Cómo funciona el espectro ensanchado por salto de frecuencia?`
+
+- El funcionamiento del espectro ensanchado se basa en la transmisión de señales a través de múltiples frecuencias, en lugar de usar una única frecuencia fija.
+  - el salto de frecuencia permiten que una señal "salte" rápidamente diferentes canales dentro del espectro de frecuencias, evitando interferencias y haciendo que las comunicaciones sean más seguras.
+
+- Esto no solo mejora la resistencia de la señal contra ruidos o interferencias externas, sino que también dificulta que terceros intercepten o bloqueen la comunicación, ya que necesitarían conocer la secuencia exacta de frecuencias utilizadas para saltar. Esta técnica desarrollada por la inventora del wifi, es fundamental en tecnologías inalámbricas modernas como el wifi, Ethernet inalámbrico y Bluetooth, además de aplicaciones militares y comerciales.
+
+`¿Qué aplicaciones actuales se utiliza su invento?`
+
+1. Redes wifi domésticas y empresariales que permiten la transmisión rápida de datos sin cables.
+2. Conexiones Bluetooth para dispositivos como auriculares, teclados o parlantes inalámbricos.
+3. Sistemas de comunicación en el sector militar que requieren alta seguridad y resistencia a interferencias.
+4. Tecnología Ethernet inalámbrica y otras formas de conexión digital que usan el espectro de frecuencias para transferir datos.
+5. Plataformas de activismo digital en redes sociales que se apoyan en conexiones seguras para transmisión y protección de la información.
+
+> Transformó la manera en que los dispositivos se comunican sin cables y sin interrupciones.
+
+secaa!
