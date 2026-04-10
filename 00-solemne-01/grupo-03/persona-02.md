@@ -304,3 +304,6 @@ También ha sido nominada a muchos premios como el Japan Media Arts Festival, el
 Mi obra favorita de Mónica Rikić fue 1 especie, 2 y 3, la cual se basa en un conjunto de dispositivos robóticos, construidos a partir de estructuras algorítmicas inspiradas en principios filosóficos, que representan un pequeño ecosistema inorgánico.
 Me gusta mucho esta obra por como representa este sistema inorgánico pero a la vez se siente demasiado vivo, las 3 especies a pesar de ser tan diferentes entre si, todas siguen el mismo significado de intentar existir en este mundo, es hasta aterrador a mi parecer como estas maquinas se mueven simulando “vida” y como si estuvieran atrapadas en esa pared intentando ser algo mas pero simplenete no pueden por sus limitaciones impuestas por la artista, también me encanta mucho como logra crear estos movimientos organicos con la electronica, me parece que llego a un realismo casi de miedo.
 ![Obra Artista](./imagenes/proceso14.png)
+ ### bibliografia
+ * Rikić, M. (s. f.). About – Mónica Rikić. Recuperado el 9 de abril de 2026, de https://monicarikic.com/about/
+ * Wikipedia. (s. f.). Mónica Rikić. Recuperado el 9 de abril de 2026, de https://es.wikipedia.org/wiki/Mónica_Rikić
