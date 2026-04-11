@@ -54,6 +54,14 @@ WiFi = conecta todo
 
 ![foto](./imagenes/anaysadafruit.png)
 
+### prendizajes y dificultades
+
+Me cuesta entender los errores del código porque no son claros para mi aún y también fue difícil al inicio entender cómo se conectan Arduino, internet y la plataforma.
+
+Aprendí a enviar datos en tiempo real por WiFi y que es importantisimo configurar bien los datos para que todo funcione.
+
+También me guíe de este tutorial: https://mkelectronica.com/?s=Aprende+a+utilizar+la+plataforma+Adafruit+IO
+
 ## sobre artista, diseñadora o producto que usa electrónica o computación inalámbricas
 
 #Incertitudes" by Ying Gao
@@ -76,7 +84,7 @@ Elegí a Ying Gao y su obra Incertitudes porque me gusta mucho lo que quiere rep
 
 Me gusta como tiene una crítica más profunda y como muestra cómo hoy todo es rápido e inestable, y eso lo refleja la ropa que siempre está cambiando pero no sabes cómo va a reaccionar, igual que en la vida donde no todo se puede controlar.
 
-Recomiendo mucho ver sus otras obras :)
+Recomiendo mucho ver sus otras obras :) ( https://yinggao.ca/ )
 
 Tambien me pillé unas bandas por spotify que me parecieron interesantes:
 
