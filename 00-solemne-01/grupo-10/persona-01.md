@@ -9,7 +9,7 @@ Como mi primer ramos sobre conexiones, al principio todo es muy nuevo entonces e
 
 ### Proceso de instalación
 
-Al momento de instalar Arduino 
+Al momento de instalar Arduino lo fui haciendo siguendo la clase cada momento
 
 
 ### Dificultades encontradas
@@ -23,5 +23,5 @@ Al momento de instalar Arduino IO y las bibliotecas no me encontré con ningún 
 
 ### Sougwen Chung
 #### La marca recursiva
-La artista pinta en conjunto a dos brazos robóticos conectados a su cuerpo mediante datos de ondas cerebrales EEG en tiempo real. En la obra, esta estructura es tanto computacional como genealógica donde el sistema se basa en una red neuronal que entrenó con sus archivos artísticos, mientras pinta, lleva un sensor EEG personalizado que captura su actividad cerebral en tiempo real; diferentes ondas modulan la respuesta gestual del modelo.
+La artista pinta en conjunto a dos brazos robóticos conectados a su cuerpo mediante datos de ondas cerebrales EEG en tiempo real. En la obra, esta estructura es tanto computacional como genealógica donde el sistema se basa en una red neuronal que entrenó con sus archivos artísticos, mientras pinta, lleva un sensor EEG personalizado que captura su actividad cerebral en tiempo real ya que diferentes ondas modulan la respuesta gestual del modelo.
 
