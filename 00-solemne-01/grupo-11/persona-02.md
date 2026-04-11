@@ -6,6 +6,18 @@ investigaciones individuales Benjamin Alvarez
 
 Al inicio no tenia idea que era Adafruit.IO, pensaba que era otro Arduino ide, una aplicación que sirve para cargar codigos. Luego de investigar, descubri que es una plataforma en la nube diseñada para proyectos, que permiten conectar, visualizar y controlar sensores y dispositivos en tiempo real, sin necesidad de realizar una programación complejo. Lo que mas me llama la atencion de Adafruit IO es poder crear Dashboards y añadir interruptores para controlar el encendido y apagado de alguna luz.
 
+### como usar adafruit io
+
+Primero tenemos que abrir nuestro arduino ide, en el Library Manager tenemos que buscar Adafruit IO Arduino
+
+Despues de apretar intalar nos saldra una ventana donde pregunta si queremos intalar todo lo que nos sale, si o si apretar aceptar. Despues de eso tenemos que dirigirnos a la pagina de Adafruit IO y crearnos nuestra cuenta.
+
+### como crear usuario
+
+Tenemos que crear la cuenta con nuestro mail udp e iniciamos sesion
+
+el icono amarillo a en la esquina derecha donde sale una llave nos genera una contraseña que tenemos que poner luego en el codigo de ardunio para que se vinculo con nuestra cuenta de Adafruit IO
+
 ## sobre artista, diseñadora o producto que usa electrónica o computación inalámbricas
 
 Anouk Wipprecht es una diseñadora que trabaja en el FashionTech, un campo emergente que combina el diseño, robotica, ciencia y diseño de interaccion para convertir la moda en una experiencia que va mas alla de lo estético. Su objetivo es que las prendas no solo se vean bien, sino que tambien faciliten la relacion entre el cuerpo y entorno. Se le reconoce como una figura destacada en el desarrollo de la tecnologia contemporanea. En este caso investigue el Spider Dress 2.0, un vestido tecnologico equipado con sensores de proximidad y un chip de Intel, especifiamente el modulo Intel Edison integrado en una estructura impresa en 3D, que capta señales biologicas como la respiracion y detecta la velocidad y cercania de otras personas, cuando percibe una amenza, activa brazos mecanicos que se extienden como mecanismos de defensa para proteger el espacio personal del usuario.
