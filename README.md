@@ -50,8 +50,6 @@ para poder rendir el examen final, es necesario obtener una nota de presentació
 
 para la nota final del curso, se pondera 70% NP y 30% examen final.
 
-## bibliografía
-
 ## Servidor MQTT
 
 Para correr el servidor Mosquitto local:
