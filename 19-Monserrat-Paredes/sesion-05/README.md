@@ -217,11 +217,11 @@ Envía datos a la nube
 
 ## Solución
 
--Código: Serial.begin(115200)
+- Código: Serial.begin(115200)
 
--Monitor serial estaba en 9600
+- Monitor serial estaba en 9600
 
--Se corrigió a 115200
+- Se corrigió a 115200
 
 <img width="1112" height="589" alt="Baudio auduino" src="https://github.com/user-attachments/assets/65ba7c18-ab59-43ae-88b0-3bdae3e7ecaf" />
 
