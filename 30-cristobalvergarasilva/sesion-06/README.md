@@ -3,9 +3,9 @@
 lunes 13 abril 2026
 
 La primera mitad de la clase se realizó una explicación de como leer el Excel de la revisión de la solemne 01 y se nos dio el tiempo para realizar correcciones y se explicó el proceso que se viene dentro de estas semanas hasta la solemne dos 
-En esta ocasión habrá que ponerle énfasis en lo "poético" de la entrega acompañada de una presentación oral acompañada con el github grupal
+En esta ocasión habrá que ponerle énfasis en lo "poético" de la entrega acompañada de una presentación oral acompañada con el github grupal.
 
--Para el examen se tendrá que hacer la conexión entre dos edificios 
+-Para el examen se tendrá que hacer la conexión entre dos edificios.
 
 ## Materia
 
